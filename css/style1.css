@@ -1,0 +1,17 @@
+.nav-link:hover{
+    background-color: grey;
+}
+.display-4{
+    font-weight: bold;
+}
+.card-body-pesanan{
+    position: absolute;
+    z-index: 0;
+    top: 25 px;
+    right: 4px;
+    opacity: 0.5;
+    font-size: 80px;
+}
+.card-footer{
+    background-color: #DEB887;
+}
